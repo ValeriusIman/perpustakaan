@@ -1,0 +1,2 @@
+cetak barcode : composer require picqer/php-barcode-generator
+cetak pdf : composer require dompdf/dompdf
